@@ -4,7 +4,7 @@ num2 = float(input("enter your second number: "))
 
 if op == "+":
     print(num1 + num2)
-elif op == "_":
+elif op == "-":
     print(num1 - num2)
 elif op == "*":
     print(num1 * num2)
