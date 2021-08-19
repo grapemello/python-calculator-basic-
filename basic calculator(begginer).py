@@ -1,3 +1,6 @@
+# you can only use +,-,*,/
+
+
 num1 = float(input("enter first number: "))
 op = input("enter operator: ")
 num2 = float(input("enter your second number: "))
